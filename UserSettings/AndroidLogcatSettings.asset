@@ -1,0 +1,149 @@
+{
+    "m_SelectedDeviceId": "50465a584d583398",
+    "m_SelectedPackage": {
+        "deviceId": "50465a584d583398",
+        "name": "com.wildthumb.colorsort",
+        "processId": 29710,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "50465a584d583398",
+            "name": "com.sec.android.app.launcher",
+            "processId": 10812,
+            "exited": false
+        },
+        {
+            "deviceId": "50465a584d583398",
+            "name": "com.vanced.android.youtube",
+            "processId": 5259,
+            "exited": false
+        },
+        {
+            "deviceId": "50465a584d583398",
+            "name": "com.wildthumb.colorsort",
+            "processId": 3813,
+            "exited": true
+        },
+        {
+            "deviceId": "50465a584d583398",
+            "name": "com.wildthumb.colorsort",
+            "processId": 26185,
+            "exited": true
+        },
+        {
+            "deviceId": "50465a584d583398",
+            "name": "com.wildthumb.colorsort",
+            "processId": 29089,
+            "exited": true
+        },
+        {
+            "deviceId": "50465a584d583398",
+            "name": "com.wildthumb.colorsort",
+            "processId": 12509,
+            "exited": true
+        },
+        {
+            "deviceId": "50465a584d583398",
+            "name": "com.wildthumb.colorsort",
+            "processId": 7302,
+            "exited": true
+        },
+        {
+            "deviceId": "50465a584d583398",
+            "name": "com.wildthumb.colorsort",
+            "processId": 29710,
+            "exited": false
+        },
+        {
+            "deviceId": "330084623c876217",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17248,
+            "exited": true
+        },
+        {
+            "deviceId": "330084623c876217",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19764,
+            "exited": true
+        },
+        {
+            "deviceId": "330084623c876217",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27070,
+            "exited": true
+        },
+        {
+            "deviceId": "330084623c876217",
+            "name": "com.wildthumb.colorsort",
+            "processId": 1971,
+            "exited": true
+        },
+        {
+            "deviceId": "330084623c876217",
+            "name": "com.wildthumb.colorsort",
+            "processId": 4903,
+            "exited": false
+        },
+        {
+            "deviceId": "330084623c876217",
+            "name": "com.wildthumb.colorsort",
+            "processId": 7605,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
